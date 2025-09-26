@@ -113,10 +113,10 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
-
-<img width="270" height="144" alt="image" src="https://github.com/user-attachments/assets/0faf32d1-a2cf-43e2-bb67-3797f509a5e4" />
-
 <hr>
+<br>
+<img width="270" height="144" alt="image" src="https://github.com/user-attachments/assets/0faf32d1-a2cf-43e2-bb67-3797f509a5e4" />
+<br>
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
